@@ -10,10 +10,8 @@ This is my solution to the [QR code component challenge on Frontend Mentor](http
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
 ## Overview
 
@@ -37,7 +35,7 @@ This is my solution to the [QR code component challenge on Frontend Mentor](http
 
 ### What I learned
 
-I learn something about Sass Nesting and Sass styleing.
+I learn something about Sass Nesting and Sass styleing. Also i learn mixins and variables.
 
 ```Sass
 .box {
@@ -56,3 +54,10 @@ I learn something about Sass Nesting and Sass styleing.
   }
 }
 ```
+
+### Useful resources
+
+## Author
+
+- Website - [Nimixx](https://www.your-site.com)
+- Frontend Mentor - [@Nimixx](https://www.frontendmentor.io/profile/Nimixx)
