@@ -23,5 +23,36 @@ This is my solution to the [QR code component challenge on Frontend Mentor](http
 
 ### Links
 
-- Challenge resource URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Challenge resource URL: [Frontend Mentor - QR Code Challenge](https://your-solution-url.com)
+- Live Site URL: [Github pages](https://your-live-site-url.com)
+
+## My process
+
+### Built with
+
+- Semantic HTML5 markup
+- SCSS custom properties
+- Flexbox
+- [Vite](https://vitejs.dev/) - Bundle tool
+
+### What I learned
+
+I learn something about Sass Nesting and Sass styleing.
+
+```Sass
+.box {
+  @include Radius;
+  @include FlexCenter;
+  &__container {
+    min-height: 50rem;
+    padding: 2rem;
+    background-color: white;
+  }
+  &__code--img {
+    max-width: 30rem;
+  }
+  &__wrapper {
+    max-width: 25rem;
+  }
+}
+```
