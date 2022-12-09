@@ -1,0 +1,57 @@
+@import './reset.scss';
+
+//Variables
+$color-gray: #929292;
+$primary-color: #d6e2f0;
+$secondary-color: #3685ff;
+
+//Mixins
+@mixin FlexCenter {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  gap: 1.5rem;
+}
+
+@mixin Radius {
+  border-radius: 1rem;
+}
+
+//Page setup
+html {
+  font-size: 62.5%;
+}
+
+body {
+  font-family: 'Outfit', sans-serif;
+  background-color: $primary-color;
+  @include FlexCenter;
+}
+
+.box {
+  @include Radius;
+  @include FlexCenter;
+  &__container {
+    min-height: 50rem;
+    padding: 2rem;
+    background-color: white;
+  }
+  &__code--img {
+    max-width: 30rem;
+  }
+  &__wrapper {
+    max-width: 25rem;
+  }
+}
+
+.primary {
+  text-align: center;
+  &__heading {
+    font-size: 2rem;
+  }
+  &__text {
+    font-size: 1.5rem;
+    color: $color-gray;
+  }
+}
