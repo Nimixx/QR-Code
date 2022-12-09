@@ -57,6 +57,8 @@ I learn something about Sass Nesting and Sass styleing. Also i learn mixins and 
 
 ### Useful resources
 
+- [Sass Doc](https://sass-lang.com/documentation/style-rules) - This helped me for push my skill in Sass and nesting little bit more.
+
 ## Author
 
 - Website - [Nimixx](https://www.your-site.com)
