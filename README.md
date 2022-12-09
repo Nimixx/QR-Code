@@ -14,3 +14,7 @@ This is my solution to the [QR code component challenge on Frontend Mentor](http
   - [Useful resources](#useful-resources)
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
+
+### Screenshot
+
+![](./screenshot.webp)
