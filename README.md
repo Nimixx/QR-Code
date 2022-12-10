@@ -22,7 +22,7 @@ This is my solution to the [QR code component challenge on Frontend Mentor](http
 ### Links
 
 - Challenge resource URL: [Frontend Mentor - QR Code Challenge](https://your-solution-url.com)
-- Live Site URL: [Github pages](https://your-live-site-url.com)
+- Live Site URL: [Github pages](https://nimixx.github.io/QR-Code/)
 
 ## My process
 
